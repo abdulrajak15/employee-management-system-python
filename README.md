@@ -1,4 +1,4 @@
-# 👔 Employee Management System — Console App
+#  Employee Management System — Console App
 **Cognetix Technology Internship | Level 2 — Project 1**
 
 ---
